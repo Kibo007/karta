@@ -98,17 +98,17 @@ html[xmlns] .cf {
 
 body { font-size: 100%; font-family: sans-serif; background: #fff; }
 
-.slika 			{ width: 640px; height: 960px; }
-.k_wrap 		{ height: 229px; width: 412px; background-color: #dddddd; position: absolute; top: 157px; left: 23px; position: absolute; top: 303px; left: 31px; font-size: 29px; font-family: arial, helvetica; line-height: 40px; }
+.slika 			{ width: 640px; height: 960px; margin-top: -40px; }
+.k_wrap 		{ height: 229px; width: 412px; background-color: #dddddd; position: absolute; top: 264px; left: 31px; font-size: 29px; font-family: arial, helvetica; line-height: 40px; }
 .k_wrap p 		{ padding: 3px; }
 
 .datum span 	{ text-shadow: 1px 1px white, -1px -1px rgb(146, 125, 125); font-family: arial, helvetica; font-size: 20px; color: rgb(145, 156, 189); }
-.datum 			{ background: #dae0ec; top: 251px; left: 219px; height: 25px; width: 206px; position: absolute; padding-left: 52px; }
+.datum 			{ background: #dae0ec; top: 211px; left: 219px; height: 25px; width: 206px; position: absolute; padding-left: 52px; }
 
 #appModeNote 	{position: absolute; top:-40px; }
 
 
-.input_wrap label  { font-size: 22px; font-family: Arial, Helvetica; padding: font-siz16px 11px; width: 125px;}
+.input_wrap label  { font-size: 22px; font-family: Arial, Helvetica; padding: 16px 11px; width: 125px;}
 .input_wrap input  { font-size: 26px; width: 125px;}
 .input_wrap .send  { background-color: rgb(8, 19, 146); }
 .input_wrap #send  { display: block; padding: 3px 13px; text-decoration: none; color: whitesmoke; font-family: Arial, Helvetica; font-size: 23px; } 
